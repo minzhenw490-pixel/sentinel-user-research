@@ -11,7 +11,8 @@
 |---|---|
 | [user-research-report.md](user-research-report.md) | 完整调研报告：用户画像、核心发现、用户原话与产品含义 |
 | [user-testing-invite.md](user-testing-invite.md) | 用户测试邀请函：项目介绍 + 参与方式 |
-| [index.html](index.html) | 在线阅读版（也可通过 GitHub Pages 打开） |
+
+在线阅读版：https://minzhenw490-pixel.github.io/sentinel-user-research/
 
 ## 调研方法
 
